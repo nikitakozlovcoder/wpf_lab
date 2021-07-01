@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="class diagram.png" />
+    <None Remove="uml.xmi" />
+    <None Remove="~%24зловНЕ_КТбо2-6_Лаб6.docx" />
+    <None Remove="КозловНЕ_КТбо2-6_Лаб6.docx" />
+  </ItemGroup>
+
+</Project>
